@@ -7,3 +7,6 @@
 [submodule "translate_english_book_to_farsi"]
 	path = translate_english_book_to_farsi
 	url = https://github.com/Shahbazi-Amir/translate_english_book_to_farsi.git
+[submodule "vid_pipeline"]
+	path = vid_pipeline
+	url = https://github.com/Shahbazi-Amir/vid_pipeline.git
