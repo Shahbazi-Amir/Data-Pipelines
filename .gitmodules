@@ -1,0 +1,3 @@
+[submodule "financial-literacy-corpus"]
+	path = financial-literacy-corpus
+	url = https://github.com/Shahbazi-Amir/financial-literacy-corpus.git
