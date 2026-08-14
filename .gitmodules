@@ -4,3 +4,6 @@
 [submodule "transcription"]
 	path = transcription
 	url = https://github.com/Shahbazi-Amir/transcription.git
+[submodule "translate_english_book_to_farsi"]
+	path = translate_english_book_to_farsi
+	url = https://github.com/Shahbazi-Amir/translate_english_book_to_farsi.git
