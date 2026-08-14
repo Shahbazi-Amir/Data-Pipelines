@@ -1,3 +1,6 @@
 [submodule "financial-literacy-corpus"]
 	path = financial-literacy-corpus
 	url = https://github.com/Shahbazi-Amir/financial-literacy-corpus.git
+[submodule "transcription"]
+	path = transcription
+	url = https://github.com/Shahbazi-Amir/transcription.git
