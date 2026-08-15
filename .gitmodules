@@ -10,3 +10,6 @@
 [submodule "vid_pipeline"]
 	path = vid_pipeline
 	url = https://github.com/Shahbazi-Amir/vid_pipeline.git
+[submodule "devfix_for_macintel"]
+	path = devfix_for_macintel
+	url = https://github.com/Shahbazi-Amir/devfix_for_macintel.git
